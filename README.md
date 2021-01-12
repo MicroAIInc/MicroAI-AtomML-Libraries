@@ -69,7 +69,7 @@ See the [open issues](https://github.com/ONE-Tech-Inc/MicroAI-Atom-Libraries/iss
 <!-- LICENSE -->
 ## License
 
-See  [Software Evaluation Licensing Agreement](https://github.com/ONE-Tech-Inc/MicroAI-Atom-Libraries/blob/main/MicroAI%20Atom%20Evaluation%20License%20Agreement.pdf)  for more information.
+See  [Software Evaluation Licensing Agreement](https://github.com/ONE-Tech-Inc/MicroAI-Atom-Libraries/blob/master/MicroAI%20Atom%20Evaluation%20License%20Agreement.pdf)  for more information.
 
 
 
