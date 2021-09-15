@@ -9,10 +9,10 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="Images/atomlibraries.png" alt="Logo" width="1000" height="495">
+    <img src="Images/microatomlibraries.jpg" alt="Logo" width="1000" height="495">
   </a>
 
-  <h3 align="center">MicroAI Atom</h3>
+  <h3 align="center">MicroAI AtomML™</h3>
 
   <p align="center">
     Access the Table of Contents below to browse through instructions, information about our MicroAI libraries, and more. We hope you enjoy our product launch and are excited to see what you and your teams can create!
