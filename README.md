@@ -76,11 +76,11 @@ See  [Software Evaluation Licensing Agreement](https://github.com/ONE-Tech-Inc/M
 <!-- CONTACT -->
 ## Contact
 
-Company: ONETech
+Company: MicroAI™
 
-Website: www.onetech.ai
+Website: www.micro.ai
 
-Email: support@onetech.ai
+Email: support@micro.ai
 
 
 
