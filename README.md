@@ -62,7 +62,7 @@ For sample use case applications, refer to the following SDK's (see the select r
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/ONE-Tech-Inc/MicroAI-Atom-Libraries/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/MicroAIInc/MicroAI-Atom-Libraries/issues) for a list of proposed features (and known issues).
 
 
 
