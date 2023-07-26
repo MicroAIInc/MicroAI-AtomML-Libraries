@@ -12,7 +12,7 @@
     <img src="Images/microatomlibraries.jpg" alt="Logo" width="1000" height="495">
   </a>
 
-  <h3 align="center">MicroAI AtomML™</h3>
+  <h3 align="center">MicroAI's AtomML™</h3>
 
   <p align="center">
     Access the Table of Contents below to browse through instructions, information about our MicroAI libraries, and more. We hope you enjoy our product launch and are excited to see what you and your teams can create!
@@ -36,7 +36,7 @@
 <!-- ABOUT THE LIBRARIES -->
 ## About The Libraries
 
-This repository contains libraries for the following MicroAI Atom platforms:
+This repository contains libraries for the following MicroAI's AtomML platforms:
 
 * ESP32
 
