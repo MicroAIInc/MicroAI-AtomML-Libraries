@@ -1,4 +1,4 @@
-# MicroAI Libraries for the ESP32
+# MicroAI's AtomML Libraries for the ESP32
 
 
 ### Overview
